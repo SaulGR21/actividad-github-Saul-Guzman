@@ -1,0 +1,7 @@
+Saul Inquerman Guzman Romero
+
+Fecha: 10-Marzo-2026
+
+Objetivo: Es aprender las habilidades blandas y fuertes de Github.
+
+Es una solicitud para fusionar los cambios de tu rama hacia otra rama (generalmente main). Es decir, estás pidiendo que revisen y acepten tus cambios antes de integrarlos al proyecto principal.
